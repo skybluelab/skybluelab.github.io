@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "WillBlue"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Welcome**to my Blog! I'm a student who likes math and programming"
+  bio              : "**Welcome** to my Blog! I'm a student who likes math and programming"
   location         : "South korea"
   email            :
   links:
