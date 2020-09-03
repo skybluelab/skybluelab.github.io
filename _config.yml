@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "SkyBlueLab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "WillBlue"
+name                     : "SkyBlueLab"
 description              : "Welcome to my Blog!"
 url                      : "https://skybluelab.github.io"
 baseurl                  : ""
